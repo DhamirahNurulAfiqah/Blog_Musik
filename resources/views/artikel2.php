@@ -41,7 +41,7 @@
   <div class="row justify-content-center">
     <div class="col-lg-8">
       <h1 class="mb-3">Musik Klasik adalah Genre yang Berakar dari Kesenian Barat</h1>
-      <img src="images/img2.jpg" class="img-fluid rounded mb-4" alt="Musik Klasik">
+      <img src="Images/img2.jpg" class="img-fluid rounded mb-4" alt="Musik Klasik">
       <p>
         Musik klasik merupakan salah satu genre musik yang memiliki sejarah panjang dan pengaruh besar terhadap perkembangan musik modern. Genre ini berkembang di Eropa pada periode klasik (1750–1820), namun akar-akar musik klasik dapat ditelusuri sejak era Barok dan bahkan Renaissance.
       </p>
