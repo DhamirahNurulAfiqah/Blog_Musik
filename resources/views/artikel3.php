@@ -41,7 +41,7 @@
   <div class="row justify-content-center">
     <div class="col-lg-8">
       <h1 class="mb-3">Ciri-Ciri Musik Rock dan Contohnya</h1>
-      <img src="images/img3.jpg" class="img-fluid rounded mb-4" alt="Musik Rock">
+      <img src="Images/img3.jpg" class="img-fluid rounded mb-4" alt="Musik Rock">
       <p>
         Musik rock dikenal dengan karakteristiknya yang energik, ekspresif, dan penuh semangat. Genre ini berkembang sejak pertengahan abad ke-20 dan menjadi salah satu bentuk ekspresi budaya yang paling kuat dalam sejarah musik populer.
       </p>
