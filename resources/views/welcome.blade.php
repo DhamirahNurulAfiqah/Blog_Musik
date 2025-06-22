@@ -67,7 +67,7 @@
         <!-- Artikel 1 -->
         <div class="col-md-4">
           <div class="card h-100">
-           <img src="{{ asset('images/img1.jpg') }}" class="card-img-top" alt="Musik Pop" onerror="this.outerHTML='Image failed to load';" />
+           <img src="{{ asset('Images/img1.jpg') }}" class="card-img-top" alt="Musik Pop" onerror="this.outerHTML='Image failed to load';" />
             <div class="card-body">
               <h5 class="card-title">Mengenal Lebih Jauh Tentang Genre Musik Pop</h5>
               <p class="card-text">Pelajari asal-usul dan perkembangan musik pop yang sangat digemari di seluruh dunia.</p>
@@ -81,7 +81,7 @@
         <!-- Artikel 2 -->
         <div class="col-md-4">
           <div class="card h-100">
-           <img src="{{ asset('images/img2.jpg') }}" class="card-img-top" alt="Musik Pop" onerror="this.outerHTML='Image failed to load';" />
+           <img src="{{ asset('Images/img2.jpg') }}" class="card-img-top" alt="Musik Pop" onerror="this.outerHTML='Image failed to load';" />
             <div class="card-body">
               <h5 class="card-title">Musik Klasik adalah Genre yang Berakar dari Kesenian Barat</h5>
               <p class="card-text">Temukan keindahan dan sejarah musik klasik dari zaman Barok hingga Romantik.</p>
@@ -95,7 +95,7 @@
         <!-- Artikel 3 -->
         <div class="col-md-4">
           <div class="card h-100">
-             <img src="{{ asset('images/img3.jpg') }}" class="card-img-top" alt="Musik Pop" onerror="this.outerHTML='Image failed to load';" />
+             <img src="{{ asset('Images/img3.jpg') }}" class="card-img-top" alt="Musik Pop" onerror="this.outerHTML='Image failed to load';" />
             <div class="card-body">
               <h5 class="card-title">Ciri-Ciri Musik Rock dan Contohnya</h5>
               <p class="card-text">Kenali karakteristik musik rock dan contoh lagu-lagu rock yang legendaris.</p>
