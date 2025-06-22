@@ -65,7 +65,7 @@
             ] as $artikel)
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="{{ asset('images/' . $artikel['image']) }}" alt="Image" class="card-img-top" />
+                  <img src="{{ asset('Images/' . $artikel['image']) }}" alt="Image" class="card-img-top" />
                   <div class="card-body">
                     <h5 class="card-title">{{ $artikel['title'] }}</h5>
                     <p class="card-text">Temukan keindahan dan sejarah musik klasik dari zaman Barok hingga Romantik.</p>
