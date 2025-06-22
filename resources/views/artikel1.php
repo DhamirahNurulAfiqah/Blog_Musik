@@ -41,7 +41,7 @@
   <div class="row justify-content-center">
     <div class="col-lg-8">
       <h1 class="mb-3">Mengenal Lebih Jauh Tentang Genre Musik Pop</h1>
-        <img src="images/img1.jpg" class="img-fluid rounded mb-4" alt="Musik Pop">
+        <img src="Images/img1.jpg" class="img-fluid rounded mb-4" alt="Musik Pop">
 
       <p>
         Musik Pop, atau "popular music", merupakan salah satu genre musik yang paling luas dan mudah dikenali di seluruh dunia. Genre ini mulai berkembang sejak awal abad ke-20 dan terus bertransformasi mengikuti perkembangan teknologi, budaya, dan selera masyarakat.
